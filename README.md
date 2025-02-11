@@ -3,4 +3,4 @@
 <br>
 #
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nothowstorygoes&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[<img src="https://github.com/user-attachments/assets/fdcb6f9e-ceee-499b-a93f-4ca92eca0cd6" width="130px" heigth="130px" align="right" marginLeft="300px">](https://nshg.vercel.app/)
+[<img src="https://github.com/user-attachments/assets/fdcb6f9e-ceee-499b-a93f-4ca92eca0cd6" width="130px" heigth="130px" align="right" marginLeft="300px">](https://nhsg.vercel.app/)
