@@ -4,5 +4,5 @@
 
 <br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nothowstorygoes&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=nothowstorygoes&layout=compact&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=nothowstorygoes&layout=compact&langs_count=4&theme=transparent)
 [<img src="https://github.com/user-attachments/assets/7a2eea94-208a-42fc-b495-e29e4cb863f1" width="130px" heigth="130px" align="right" marginLeft="300px">](https://nhsg.vercel.app/)
